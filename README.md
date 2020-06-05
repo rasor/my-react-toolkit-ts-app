@@ -3,6 +3,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ```bash
 npx create-react-app my-redux-toolkit-ts-app --template redux-typescript --use-npm
 ```
+Learn: [Redux Toolkit - basic-tutorial](https://redux-toolkit.js.org/tutorials/basic-tutorial)
 
 ## Available Scripts
 
